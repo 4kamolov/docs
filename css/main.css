@@ -2,10 +2,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&display=swap");
 /* main css/> */
 :root {
-  backdrop-filter: var(--glass-backdrop);
-  background: var(--glass-background);
-  border: var(--glass-border);
-  box-shadow: var(--glass-shadow);
+--glass-backdrop: blur(6px);
+  --glass-background: rgba(63, 81, 117, 0.2);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
+  --glass-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
 }
 
 .container {
