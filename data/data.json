@@ -10046,5 +10046,33 @@
     "subject": "Avto test",
     "question": "Avtomobilning muvozanatni ta'minlovchi tizim qanday ishlaydi?",
     "answer": "Avtomobilning tenglik va barqarorligini saqlash uchun kerak."
+  },
+  {
+    "id": 1540,
+    "topic": "s",
+    "subject": "Prezident Maktabi",
+    "question": "question 1",
+    "answer": "answer 1"
+  },
+   {
+    "id": 1541,
+    "topic": "s",
+    "subject": "Prezident Maktabi",
+    "question": "question 2",
+    "answer": "answer 2"
+  },
+   {
+    "id": 1542,
+    "topic": "s",
+    "subject": "Prezident Maktabi",
+    "question": "question 3",
+    "answer": "answer 3"
+  },
+   {
+    "id": 1543,
+    "topic": "s",
+    "subject": "Prezident Maktabi",
+    "question": "question 4",
+    "answer": "answer 4"
   }
 ]
